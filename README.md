@@ -10,4 +10,5 @@ Neither of the two classifying models perform particularly well. This is a multi
 
 # References
 [1] Zhang, Min-Ling, and Zhi-Hua Zhou. "Multilabel neural networks with applications to functional genomics and text categorization." IEEE transactions on Knowledge and Data Engineering 18.10 (2006): 1338-1351.
+
 [2] Huwald, Lukas. https://github.com/vanHavel/bp-mll-tensorflow
