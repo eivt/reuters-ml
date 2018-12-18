@@ -83,7 +83,6 @@ class Dataset:
             num_words=vocab_size,
             oov_token='$OOV')
 
-        assert self.vocab_size == self.tokenizer.num_words
         self.tokenizer.fit_on_texts(self.df.loc[self.train_ids]['text'])
 
     def bow_data_batch(self, batch_ids, mode='tfidf'):
