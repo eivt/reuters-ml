@@ -1,0 +1,3 @@
+[submodule "bpmll"]
+	path = bpmll
+	url = https://github.com/vanHavel/bp-mll-tensorflow.git
